@@ -1,8 +1,15 @@
 # About
-Latest version of my CV, typesetted in Helvetica and using colors inspired by Monokai (there is an `print` option which renders in black and white, and reverts the header to dark on light, if printing on paper is needed).
+My personal CV.
 
-Uses TikZ for the header, XeTeX and fontspec to use Helvetica Neue, biblatex to print my publications and textpos for the aside.
+To update the cv open munarini_stefano_cv.tex
+To change style/colors update friggeri-cv.cls
 
+To compile the cv:
+<ul>
+<el>Save the document (.tex)</el>
+<el>Run xelatex munarini_stefano_cv.tex</el>
+<el>Done!</el>
+</ul>
 
 # License
 
