@@ -2,4 +2,4 @@
 *.bcf
 *.log
 *.out
-
+.DS_STORE
