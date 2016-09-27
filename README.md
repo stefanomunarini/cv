@@ -6,9 +6,9 @@ To change style/colors update friggeri-cv.cls
 
 To compile the cv:
 <ul>
-<el>Save the document (.tex)</el>
-<el>Run xelatex munarini_stefano_cv.tex</el>
-<el>Done!</el>
+<li>Save the document (.tex)</li>
+<li>Run xelatex munarini_stefano_cv.tex</li>
+<li>Done!</li>
 </ul>
 
 # License
