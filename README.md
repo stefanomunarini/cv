@@ -8,7 +8,7 @@ To compile the cv:
 <ul>
 <li>Save the document (.tex)</li>
 <li>Run xelatex munarini_stefano_cv.tex</li>
-<li>Done!</li>
+<li>Open munarini_stefano_cv.pdf</li>
 </ul>
 
 Requirements:
