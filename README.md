@@ -1,15 +1,21 @@
 # About
-My personal CV.
 
-To update the cv open munarini_stefano_cv.tex
-To change style/colors update friggeri-cv.cls
+This repository contains my resume written in [LaTeX](https://www.latex-project.org), and using the friggery template.
 
-To compile the cv:
+![Resume](munarini_stefano_cv.pdf)
+
+### Instructions
+
+The content of the cv is in `/munarini_stefano_cv.tex`
+
+To update the style and the colors modify friggeri-cv.cls
+
+To compile and open the cv the cv:
 <ul>
 <li>Save the document (.tex)</li>
-<li>Run xelatex munarini_stefano_cv.tex</li>
-<li>Open munarini_stefano_cv.pdf</li>
+<li>`xelatex munarini_stefano_cv.tex`</li>
+<li>`open munarini_stefano_cv.pdf`</li>
 </ul>
 
-Requirements:
+### Requirements:
 [xelatex](http://www.texts.io/support/0001/)
